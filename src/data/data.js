@@ -1,4 +1,4 @@
-const baseUrl= 'http://localhost:2500'
+const baseUrl= 'https://e-commerce-backend-1-fs9k.onrender.com'
 
 const productData= {
     fetchItems:baseUrl+'/product/lists'
